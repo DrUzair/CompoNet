@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVQ.NET", "LVQ.NET.csproj", "{33E7BAF5-D2F3-4942-A19D-F48F70A9154A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_LVQ GUI", "..\LVQ.NET GUI\CS_LVQ GUI.csproj", "{37B9C0B3-BA1E-433C-BF12-B489E5A6A120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E7BAF5-D2F3-4942-A19D-F48F70A9154A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E7BAF5-D2F3-4942-A19D-F48F70A9154A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E7BAF5-D2F3-4942-A19D-F48F70A9154A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E7BAF5-D2F3-4942-A19D-F48F70A9154A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B9C0B3-BA1E-433C-BF12-B489E5A6A120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B9C0B3-BA1E-433C-BF12-B489E5A6A120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B9C0B3-BA1E-433C-BF12-B489E5A6A120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B9C0B3-BA1E-433C-BF12-B489E5A6A120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

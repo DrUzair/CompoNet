@@ -1,0 +1,19 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CS_LVQ_GUI.Form1.resources
+obj\Release\CS_LVQ_GUI.Properties.Resources.resources
+obj\Release\CS_LVQ GUI.csproj.GenerateResource.Cache
+bin\Release\CS_LVQ GUI.exe
+bin\Release\CS_LVQ GUI.pdb
+bin\Release\LVQ.NET.pdb
+obj\Release\CS_LVQ GUI.exe
+obj\Release\CS_LVQ GUI.pdb
+bin\Release\LVQ.NET.dll
+bin\Debug\CS_LVQ GUI.exe
+bin\Debug\CS_LVQ GUI.pdb
+bin\Debug\LVQ.NET.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CS_LVQ_GUI.Form1.resources
+obj\Debug\CS_LVQ_GUI.Properties.Resources.resources
+obj\Debug\CS_LVQ GUI.csproj.GenerateResource.Cache
+obj\Debug\CS_LVQ GUI.exe
+obj\Debug\CS_LVQ GUI.pdb

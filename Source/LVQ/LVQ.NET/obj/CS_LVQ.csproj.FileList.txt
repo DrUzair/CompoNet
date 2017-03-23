@@ -1,0 +1,10 @@
+bin\Release\LVQ.NET.dll
+bin\Release\LVQ.NET.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\LVQ.NET.dll
+obj\Release\LVQ.NET.pdb
+bin\Debug\LVQ.NET.dll
+bin\Debug\LVQ.NET.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LVQ.NET.dll
+obj\Debug\LVQ.NET.pdb
