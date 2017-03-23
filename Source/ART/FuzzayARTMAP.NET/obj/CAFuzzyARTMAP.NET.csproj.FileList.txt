@@ -1,0 +1,7 @@
+bin\Debug\FuzzyARTMAP.NET.dll
+bin\Debug\FuzzyARTMAP.NET.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FuzzyARTMAP.NET.dll
+obj\Debug\FuzzyARTMAP.NET.pdb
+bin\Debug\ContextAwareFuzzyART.NET.dll
+bin\Debug\ContextAwareFuzzyART.NET.pdb

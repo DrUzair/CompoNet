@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConSelFAM.NET", "ConSelFAM.NET.csproj", "{0F25630B-60F6-47C1-BA5E-458122224941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzyARTMAPTest", "..\FuzzyARTMAPTest\FuzzyARTMAPTest.csproj", "{18FA57E1-3668-4610-8A73-53745F0782E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F25630B-60F6-47C1-BA5E-458122224941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F25630B-60F6-47C1-BA5E-458122224941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F25630B-60F6-47C1-BA5E-458122224941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F25630B-60F6-47C1-BA5E-458122224941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FA57E1-3668-4610-8A73-53745F0782E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FA57E1-3668-4610-8A73-53745F0782E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FA57E1-3668-4610-8A73-53745F0782E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FA57E1-3668-4610-8A73-53745F0782E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
