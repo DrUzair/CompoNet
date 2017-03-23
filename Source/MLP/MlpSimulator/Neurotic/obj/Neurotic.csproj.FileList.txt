@@ -1,0 +1,10 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Debug\Neurotic.dll
+bin\Debug\Neurotic.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Neurotic.dll
+obj\Debug\Neurotic.pdb
+bin\Release\MLP.NET.dll
+bin\Release\MLP.NET.pdb
+obj\Release\MLP.NET.dll
+obj\Release\MLP.NET.pdb
